@@ -759,6 +759,7 @@ section {
 .courses .course-content h3 {
   font-weight: 700;
   font-size: 20px;
+  color: #0987b5;
 }
 
 .courses .course-content h3 a {
@@ -811,6 +812,37 @@ section {
   font-size: 18px;
   color: #657a6d;
 }
+
+.courses h2 {
+  text-align:center;
+  border-radius: 5px;
+  border: 1px solid #eef0ef;
+  color:#fff;
+  background: #0987b5;
+  font-weight: 800;
+  font-size: 20px; 
+  padding:6px;
+  font-family: 'Oswald', sans-serif;
+}
+
+.courses .course-content-new {
+  padding: 15px;
+  font-family: 'Oswald', sans-serif;
+}
+
+.courses .course-content-new h3 {
+  font-weight: 500;
+  font-size: 16px;
+  color: #0987b5;
+}
+.courses .course-content-new ul li {
+  border: none;
+}
+
+.courses .course-content-new i{
+	color:#DA7A09;
+}
+
 
 /*--------------------------------------------------------------
 # Trainers
