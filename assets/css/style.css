@@ -9,7 +9,7 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Oswald', sans-serif;
   color: #444444;
 }
 
@@ -211,7 +211,7 @@ h6 {
   align-items: center;
   justify-content: space-between;
   padding: 10px 0 10px 30px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Oswald", sans-serif;
   font-size: 15px;
   font-weight: 500;
   color: #37423b;
@@ -843,6 +843,23 @@ section {
 	color:#DA7A09;
 }
 
+.it .block-it h2{
+	color : #8B0000;
+	font-weight : 800;
+	font-size : 20px
+}
+
+.it .block-it .list-group .list-group-item {
+	border: none;
+}
+
+.it .block-it .list-group p{
+	font-family : 'poppins', sans-serif;
+}
+.it .block-it h6{
+	font-family : 'Oswald', sans-serif;
+	font-weight : 600;
+}
 
 /*--------------------------------------------------------------
 # Trainers
